@@ -1,0 +1,43 @@
+.header{
+
+background: url("images/logo.png")no-repeat;
+width:2400px;
+height:625px;
+border:0px;
+float:left;
+width:100%;
+display:inline-block;
+
+}
+.image_top{
+	
+	background: url("images/lady1.png") no-repeat;
+width:2268px;
+height:2397px;
+border:0px;
+float:left;
+width:100%;
+display:inline-block;
+}
+
+.text_content{
+		background: url("images/text.png")no-repeat;
+width:2394px;
+height:1345px;
+border:0px;
+float:left;
+width:100%;
+display:inline-block;
+	
+}
+
+.footer{
+			background: url("images/footer.png") no-repeat;
+width:2400px;
+height:1627px;
+border:0px;
+float:left;
+width:100%;
+display:inline-block;
+	
+}
